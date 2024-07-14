@@ -22,8 +22,10 @@ I am a data analyst with two years of experience specializing in drug safety rep
 
 5. **Personal skills:** Security Mindset · Critical Thinking · Detail Oriented · Problem Solving 
 
+6. **Languages:** Romanian (Native) · English (Professional) · Spanish (Fluent) · Russian(Fluent)
 
-## Career & Projects
+
+## Career Path
 
 ### Intensive Cybersecurity Bootcamp, GetSetUK, 2024
 
@@ -40,7 +42,7 @@ governance, risk, and compliance.
 
 ### Data Analytics Bootcamp, FastFutures, 2023
 
-- Collaborated with a team of nine to build a mock proposal for investment on a portable EV batteryand pitched it to a panel of investors who claimed they would have invested in the project. Wecovered unit economics, go-to-market, and data-driven decision-making in the presentation.
+- Collaborated with a team of nine to build a mock proposal for investment on a portable EV batteryand pitched it to a panel of investors who claimed they would have invested in the project. We covered unit economics, go-to-market, and data-driven decision-making in the presentation.
 
 - Conducted exploratory data analysis and data visualisation.
 
@@ -58,8 +60,7 @@ governance, risk, and compliance.
 
 - Collaborated with cross-functional teams, including regulatory affairs, clinical development, and quality assurance, to integrate safety findings into overall product development strategies.
 
-### Movement Research Unit (MRU), Volunteer                                      Ongoing
-
+### Movement Research Unit (MRU),  Ongoing Volunteering                                     
 - At MRU we offer support to movement groups and unions by offering qualitative and quantitative research using OSINT and data analysis tools. 
 
 ## Education
@@ -68,9 +69,6 @@ governance, risk, and compliance.
 - Advanced Epidemiology and Research methods in Public Health
 
 Publication: [PALTEM: What Parameters Should Be Collected in Disaster Settings to Assess the Long-Term Outcomes of Famine? IJERPH](https://www.mdpi.com/1660-4601/15/5/857)
-
-## Languages: 
-#### Romanian (Native), English (Professional), Spanish (Fluent), Russian(Fluent)
  
 ## Certificates
 
