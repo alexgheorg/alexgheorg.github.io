@@ -12,9 +12,9 @@ I am a data analyst with two years of experience specializing in drug safety rep
 
 1. NIST CSF · NIST RMF  · AI RMF · ISO27001 · ISO 27002 · ISO 31000 · OWASP · OSINT  ·  MITRE ATT&CK ·  PCI-DSS
 
-2. Databases · Network Traffic Analysis · CIA · Cyber ThreatHunting · Threat & Vulnerability Management · Asset Security · Bash · Security Information and EventManagement (SIEM) tools · Network Security · Intrusion Detection Systems · Asset Protection · TestAutomation  · Cyber Threat Intelligence · Vulnerability Management · Log Analysis
+2. Databases · Network Traffic Analysis · CIA · Cyber ThreatHunting · Threat & Vulnerability Management · Asset Security · Security Information and EventManagement (SIEM) tools · Network Security · Intrusion Detection Systems · Asset Protection · TestAutomation  · Cyber Threat Intelligence · Vulnerability Management · Log Analysis
 
-3. Python Programming · SQL · Linux 
+3. Python Programming · SQL · Linux · Bash
 
 3. Data Analysis: MS Power BI · Excel · Power Query
 
