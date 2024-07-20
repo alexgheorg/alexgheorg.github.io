@@ -4,23 +4,23 @@ title: About Me
 permalink: /about/
 ---
 
-# Cybersecurity Analyst
+# Cybersecurity Analyst 
 
 I am a data analyst with two years of experience specializing in drug safety reporting. My greatest achievement is the publication on epigenetics in an international environmental research journal, which contributed to advancements in public health research. I am certified in cybersecurity and continue learning and developing in the field of privacy and security. 
 
 ## Key Skills
 
-1. **Frameworks:** NIST CSF  |  NIST RMF  |  AI RMF  |  ISO27001  |  ISO 27002  |  ISO 31000  |  OWASP  |  OSINT  |  MITRE ATT&CK  |  PCI-DSS  |  GDPR 
+1. **Frameworks:** NIST CSF &#124; NIST RMF &#124; AI RMF &#124; ISO27001  &#124;  ISO 27002  &#124;  ISO 31000  &#124;  OWASP  &#124;  OSINT  &#124;  MITRE ATT&CK  &#124;  PCI-DSS  &#124;  GDPR 
 
-2. **Technical skills:** Databases  |  Network Traffic Analysis  |  Python Programming  |  SQL  |  Linux  |  CIA  |  Cyber Threat Hunting  |  Threat & Vulnerability Management  |  Asset Security  |  Bash  |  SIEM tools  |  Network Security  |  Intrusion Detection Systems  |  Asset Protection  |  Test Automation  |  Cyber Threat Intelligence  |  Log Analysis  
+2. **Technical skills:** Databases  &#124;  Network Traffic Analysis  &#124;  Python Programming  &#124;  SQL  &#124;  Linux  &#124;  CIA  &#124;  Cyber Threat Hunting  &#124;  Threat & Vulnerability Management  &#124;  Asset Security  &#124;  Bash  &#124;  SIEM tools  &#124;  Network Security  &#124;  Intrusion Detection Systems  &#124;  Asset Protection  &#124;  Test Automation  &#124;  Cyber Threat Intelligence  &#124;  Log Analysis  
 
-3. **Data Analysis:**  MS Power BI  |  Excel  |  Power Query 
+3. **Data Analysis:**  MS Power BI  &#124;  Excel  &#124;  Power Query 
 
-4. **AI:**  NLP  |  MLDL  |  Chatbots  |  Neural Networks  |  Prompt Writing 
+4. **AI:**  NLP  &#124;  MLDL  &#124;  Chatbots  &#124;  Neural Networks  &#124;  Prompt Writing 
 
-5. **Soft skills:** Security Mindset  |  Critical Thinking  |  Detail Oriented  |  Problem Solving  |  Public Speaking  |  Report Writing  |  Engaging Stakeholders  
+5. **Soft skills:** Security Mindset  &#124;  Critical Thinking  &#124;  Detail Oriented  &#124;  Problem Solving  &#124;  Public Speaking  &#124;  Report Writing  &#124;  Engaging Stakeholders  
 
-6. **Languages:** Romanian (Native)  |  English (Professional)  |  Spanish (Fluent)  |  Russian(Fluent)  |  German (Basic)
+6. **Languages:** Romanian (Native)  &#124;  English (Professional)  &#124;  Spanish (Fluent)  &#124;  Russian(Fluent)  &#124;  German (Basic)
 
 
 ## Experience
