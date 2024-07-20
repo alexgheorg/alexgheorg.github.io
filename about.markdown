@@ -1,33 +1,31 @@
 ---
 layout: page
-title: My Resume
-permalink: /myresume/
+title: About Me
+permalink: /about/
 ---
 
 # Cybersecurity Analyst
 
-I am a data analyst with two years of experience specializing in drug safety reporting. My greatest achievement is the publication on epigenetics in an international environmental research journal, which contributed to  advancements in public health research. I am certified in cybersecurity and continue learning and developing in the field of privacy and security. 
+I am a data analyst with two years of experience specializing in drug safety reporting. My greatest achievement is the publication on epigenetics in an international environmental research journal, which contributed to advancements in public health research. I am certified in cybersecurity and continue learning and developing in the field of privacy and security. 
 
 ## Key Skills
 
-1. **Frameworks:** NIST CSF · NIST RMF · AI RMF · ISO27001 · ISO 27002 · ISO27701 · ISO 31000 · OWASP · OSINT  ·  MITRE ATT&CK ·  PCI-DSS · GDPR 
+1. **Frameworks:** NIST CSF  |  NIST RMF  |  AI RMF  |  ISO27001  |  ISO 27002  |  ISO 31000  |  OWASP  |  OSINT  |  MITRE ATT&CK  |  PCI-DSS  |  GDPR 
 
-2. **Technical skills:** Databases · Network Traffic Analysis · CIA · Cyber ThreatHunting · Threat & Vulnerability Management · Asset Security · Security Information and EventManagement (SIEM) tools · Network Security · Intrusion Detection Systems · Asset Protection · TestAutomation  · Cyber Threat Intelligence · Vulnerability Management · Log Analysis
+2. **Technical skills:** Databases  |  Network Traffic Analysis  |  Python Programming  |  SQL  |  Linux  |  CIA  |  Cyber Threat Hunting  |  Threat & Vulnerability Management  |  Asset Security  |  Bash  |  SIEM tools  |  Network Security  |  Intrusion Detection Systems  |  Asset Protection  |  Test Automation  |  Cyber Threat Intelligence  |  Log Analysis  
 
-3. **Programming:** Python · SQL · Linux · Bash
+3. **Data Analysis:**  MS Power BI  |  Excel  |  Power Query 
 
-3. **Data Analysis:** MS Power BI · Excel · Power Query
+4. **AI:**  NLP  |  MLDL  |  Chatbots  |  Neural Networks  |  Prompt Writing 
 
-6. **Soft skills:** Public Speaking · Report Writing · Engaging Stakeholders 
+5. **Soft skills:** Security Mindset  |  Critical Thinking  |  Detail Oriented  |  Problem Solving  |  Public Speaking  |  Report Writing  |  Engaging Stakeholders  
 
-5. **Personal skills:** Security Mindset · Critical Thinking · Detail Oriented · Problem Solving 
-
-6. **Languages:** Romanian (Native) · English (Professional) · Spanish (Fluent) · Russian(Fluent)
+6. **Languages:** Romanian (Native)  |  English (Professional)  |  Spanish (Fluent)  |  Russian(Fluent)  |  German (Basic)
 
 
-## Career Path
+## Experience
 
-### Intensive Cybersecurity Bootcamp, GetSetUK, 2024
+### Intensive Cybersecurity Bootcamp GetSetUK  June 2024 – Sep 2024
 
 - Assessed the security posture of an enterprise environment and recommended and implemented
 appropriate security solutions.
@@ -40,19 +38,19 @@ governance, risk, and compliance.
 
 - Identified, analyzed, and responded to security events and incidents.
 
-### Data Analytics Bootcamp, FastFutures, 2023
+### Data Analytics Bootcamp FastFutures  Oct 2023 - Dec 2023
 
 - Collaborated with a team of nine to build a mock proposal for investment on a portable EV batteryand pitched it to a panel of investors who claimed they would have invested in the project. We covered unit economics, go-to-market, and data-driven decision-making in the presentation.
 
 - Conducted exploratory data analysis and data visualisation.
 
-### Safety Data Analyst, Sciformix, Bucharest,       2 years
+### Safety Data Analyst in Pharmacovigilance Sciformix Bucharest  2 years
 
 - Documented and reported adverse events and product quality complaints, ensuring compliance withregulatory requirements.
 
 - Prepared comprehensive aggregate safety reports, providing a consolidated view of safetyinformation for regulatory submissions.
 
-- Developed and maintained bilingual documentation in English and Spanish, facilitating effectivecommunication and collaboration with international stakeholders.
+- Developed and maintained bilingual documentation in English and Spanish, facilitating effective communication and collaboration with international stakeholders.
 
 - Achieved and sustained a 99% success rate, highlighting a commitment to accuracy, efficiency, andadherence to quality standards.
 
@@ -60,24 +58,32 @@ governance, risk, and compliance.
 
 - Collaborated with cross-functional teams, including regulatory affairs, clinical development, and quality assurance, to integrate safety findings into overall product development strategies.
 
-### Movement Research Unit (MRU),  Ongoing Volunteering                                     
+### Movement Research Unit (MRU), Volunteer – Ongoing
+
 - At MRU we offer support to movement groups and unions by offering qualitative and quantitative research using OSINT and data analysis tools. 
 
 ## Education
 
-**Master of Public Health**, Universtidad de Oviedo, Spain & Universite catholique de Louvain, Belgium                                                                 
+**Joint Master of Public Health (MPH)**
+Universtidad de Oviedo, Spain & Universite catholique de Louvain, Belgium                                                                 
 - Advanced Epidemiology and Research methods in Public Health
+[My publication in IJERPH](https://www.mdpi.com/1660-4601/15/5/857) Oct 27, 2017
 
-Publication: [PALTEM: What Parameters Should Be Collected in Disaster Settings to Assess the Long-Term Outcomes of Famine? IJERPH](https://www.mdpi.com/1660-4601/15/5/857)
+**Licensed in Medicine (MBBS)**     • USMF Testimitanu
+June 16, 2016
  
 ## Certificates
 
-- **CompTIA SY0-701 Security+**
+- **CompTIA SY0-701 Security+** May 30, 2024
 
-- IBM Artificial Intelligence Fundamentals 
+- IBM Artificial Intelligence Fundamentals June 14, 2024
 
-- Google Cybersecurity Professional Certificate 
+- Google Cybersecurity Professional Certificate Jan 8, 2024
 
-- Google Fundamentals of Digital Marketing 
+- Google Fundamentals of Digital Marketing Sep 6, 2023
 
-- Digital Transformation Specialist Certification (Darden School of Business)
+- Digital Transformation Specialist Certification (Darden School of Business) June 15, 2023
+
+## About Me
+
+I'm an avid reader. Getting lost in a good book helps me disconnect from the digital world and unwind. It's also a fantastic way to constantly learn new things and build my analytical skills, which comes in handy in all aspects of my life.
